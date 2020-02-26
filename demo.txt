@@ -4,3 +4,4 @@
 
 本地库中增加一行，push
 
+PULL后，才发现已经删除了good.txt
